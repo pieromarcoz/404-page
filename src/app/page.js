@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <main className="relative h-screen"> 
         <Scene />
+        HolA ESTO ES UNA PRUEBA DE CODERRABIT
     </main>
   );
 }
